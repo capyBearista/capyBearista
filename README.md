@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🤔 I’m looking for help with learning C++, servers, and machine learning!
-
+I'm an undergraduate studying Computer Science, hoping to specialize in machine learning and artificial intelligence.\
+My academic focuses at the moment are **C++**, **HTML/CSS**, and **computer architecture**. Meanwhile, my current personal project is putting together a home server, which involves using tools like **Docker (Compose)** and **Portainer**&mdash;to set up services like PiHole and Jellyfin&mdash;and general networking knowledge as a whole.
 <!--
 **capyBearista/capyBearista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
