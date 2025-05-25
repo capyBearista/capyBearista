@@ -1,10 +1,10 @@
-## Hi there! 👋
-I'm a Computer Science undergrad hoping to specialize in machine learning and artificial intelligence.
+## Hey there! 👋
+Welcome to my GitHub page! I'm a Computer Science undergrad hoping to specialize in machine learning / artificial intelligence.
 
-At the moment, my academic focuses at the moment are **object-oriented C++**, **HTML/CSS**, and **computer architecture**. 🔍 Meanwhile, my current personal project is putting together a home server, which involves using tools like **Docker (Compose)** and **Portainer**&mdash;to set up services like PiHole and Jellyfin&mdash;and general networking knowledge as a whole. 🖥️
-- 🔭 Currently working on creating a wiki for how I set up my home server as a beginner!
-- 🤔 Looking for help with an Obsidian to GitHub Wiki Sync tool :)
-- 📫 You can reach me at capyBearista@gmail.com
+My current personal project is putting together a home server, which involves using tools like **Docker (Compose)** and **Portainer**&mdash;to set up services like PiHole and Jellyfin&mdash;and general networking knowledge as a whole. 🖥️
+- 🔭 Currently working on creating a wiki for how I set up said home server as a total beginner.
+- 🔍 Looking for help with an Obsidian to GitHub Wiki Sync tool :)
+- 📫 You can reach me at capyBearista@gmail.com.
 <!--
 **capyBearista/capyBearista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
