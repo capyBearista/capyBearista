@@ -2,7 +2,7 @@
 Welcome to my GitHub page! I'm a Computer Science undergrad hoping to specialize in machine learning / artificial intelligence.
 
 My current personal project is putting together a home server, which involves using tools like **Docker (Compose)** and **Portainer**&mdash;to set up services like PiHole and Jellyfin&mdash;and general networking knowledge as a whole. 🖥️
-- 🔭 Currently working on creating a wiki for how I set up said home server as a total beginner.
+- 🔭 Currently working on a wiki covering how I set up said home server as a total beginner.
 - 🔍 Looking for help with an Obsidian to GitHub Wiki Sync tool :)
 - 📫 You can reach me at capyBearista@gmail.com.
 <!--
