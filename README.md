@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hey there!</h1>
 
+
+I'm Arjun Pramanik, a computer science undergrad who approaches technology with a strategist's mindset. My passion lies at the intersection of hands-on building and high-level problem-solving, influenced by my training in both AI/ML and business consulting. I'm fascinated by the foundational technologies—from networks to servers—because understanding the full picture is key to creating elegant, efficient, and secure solutions. Away from the keyboard, I enjoy photography and capturing the world from a different perspective :)
+
 <p align="center">
   <em>Computer Science Student | Aspiring AI/ML Specialist</em>
 </p>
@@ -14,9 +17,6 @@
     <img src="https://img.shields.io/badge/Website-4F8EF7?style=for-the-badge" alt="Website" height="28"/>
   </a>
 </p>
-
-
-I'm Arjun Pramanik, a computer science undergrad with a deep fascination for artificial intelligence and machine learning. The potential applications of AI—beyond just large language models—are vast and transformative, touching everything from medical research to everyday administration. I'm driven by the belief that, when applied thoughtfully, AI can genuinely make the world a better place.
 
 ---
 
