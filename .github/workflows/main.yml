@@ -29,6 +29,9 @@ jobs:
           # Options
           user: capyBearista
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: America/New_York
           plugin_fortune: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          repositories_forks: yes
