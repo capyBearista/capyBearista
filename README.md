@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm capyBearista! ☕🦫</h1>
+<h1 align="center">👋 Hey there!</h1>
 
 <p align="center">
   <em>Computer Science Student | Aspiring AI/ML Specialist</em>
@@ -16,9 +16,7 @@
 </p>
 
 
-### 👋 Hey there!
-
-I'm a computer science undergrad with a deep fascination for artificial intelligence and machine learning. The potential applications of AI—beyond just large language models—are vast and transformative, touching everything from medical research to everyday administration. I'm driven by the belief that, when applied thoughtfully, AI can genuinely make the world a better place.
+I'm Arjun Pramanik, a computer science undergrad with a deep fascination for artificial intelligence and machine learning. The potential applications of AI—beyond just large language models—are vast and transformative, touching everything from medical research to everyday administration. I'm driven by the belief that, when applied thoughtfully, AI can genuinely make the world a better place.
 
 ---
 
