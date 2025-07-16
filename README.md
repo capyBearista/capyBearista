@@ -43,7 +43,6 @@ I'm Arjun Pramanik, a computer science undergrad who approaches technology with 
 -  🔭 Currently working on the network analyzer.
 -  🔍 Looking for help with an Obsidian to GitHub Wiki Sync tool!
 -  📫 You can reach me at capyBearista@gmail.com.
-- 📷 I adore photography—ask me about my favorite shots :)
 
 ---
 
