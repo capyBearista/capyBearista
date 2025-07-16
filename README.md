@@ -42,14 +42,6 @@ I'm a computer science undergrad with a deep fascination for artificial intellig
 
 ---
 
-<div align="center">
-
-<!-- Badges -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=capyBearista.capyBearista" alt="Profile views"/>
-
----
-
-
 <!-- Animated Divider -->
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="colorful footer banner"/></p>
 
