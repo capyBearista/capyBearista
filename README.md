@@ -10,9 +10,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="28"/>
   </a>
   <a href="https://capybearista.github.io/" title="Website">
-    <img src="https://img.shields.io/badge/Website-4F8EF7?logo=githubpages&logoColor=white&style=for-the-badge" alt="Website" height="28"/>
+    <img src="https://img.shields.io/badge/Website-4F8EF7?style=for-the-badge" alt="Website" height="28"/>
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+![Metrics](https://metrics.lecoq.io/capyBearista?template=terminal)
 
 ---
 
