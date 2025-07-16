@@ -9,15 +9,12 @@
   <a href="https://linkedin.com/in/arjun-pramanik" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="28"/>
   </a>
+  
   <a href="https://capybearista.github.io/" title="Website">
     <img src="https://img.shields.io/badge/Website-4F8EF7?style=for-the-badge" alt="Website" height="28"/>
   </a>
 </p>
- 
----
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+
 
 ### 👋 Hey there!
 
