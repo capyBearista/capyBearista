@@ -32,20 +32,20 @@ I'm a computer science undergrad with a deep fascination for artificial intellig
 
 ---
 
-### 🌈 More About Me
+### 🛠️ Skills & Tools
 
--  🔭 Currently working on a wiki covering how I set up said home server as a total beginner.
--  🔍 Looking for help with an Obsidian to GitHub Wiki Sync tool!
--  📫 You can reach me at capyBearista@gmail.com.
-- 📷 I adore photography—ask me about my favorite shots :)
+- **Languages:** C++, Bash, Python, HTML & CSS
+- **Tools:** Docker + Compose, Git, Linux, VS Code
+- **Other:** Markdown, Technical Documentation, Networking
 
 ---
 
-### 🛠️ Skills & Tools
+### 🌈 More About Me
 
-- Languages: C++, Bash, Python, HTML & CSS
-- Tools: Docker + Compose, Git, Linux, VS Code
-- Other: Markdown, Technical Documentation
+-  🔭 Currently working on the network analyzer.
+-  🔍 Looking for help with an Obsidian to GitHub Wiki Sync tool!
+-  📫 You can reach me at capyBearista@gmail.com.
+- 📷 I adore photography—ask me about my favorite shots :)
 
 ---
 
