@@ -1,4 +1,4 @@
-<h1>👋🏽 Hey, I'm Arjun!</h1>
+<h1>👋🏽 Hey, Arjun here!</h1>
 
 > "...we do these things not because they are easy, but because we thought they were going to be easy."
 
