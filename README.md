@@ -26,9 +26,6 @@ I'm Arjun Pramanik, a computer science undergrad who approaches technology with 
 - [**home-server**](https://github.com/capyBearista/home-server):  
   *A complete guide to building and configuring a home server from scratch, hosting a suite of actually useful services. This project taught me tons about system administration and networking!*
 
-- [**llm-network-analyzer**](https://github.com/capyBearista/llm-network-analyzer):  
-  *A project that leverages the power of LLMs for network security analysis. I see huge potential in combining AI with cybersecurity tools for smarter, more adaptive defenses.*
-
 ---
 
 ### 🛠️ Skills & Tools
