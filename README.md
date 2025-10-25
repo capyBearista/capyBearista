@@ -23,7 +23,6 @@ I'm Arjun Pramanik, a computer science undergrad who approaches technology with 
 
 ### 🌟 Featured Projects
 
-
 - [**phish-net**](https://github.com/capyBearista/phish-net):  
   *A comprehensive, local-first phishing detection tool built with Python and Streamlit, leveraging the Ollama framework to run a local LLM for all analysis, ensuring no user data is sent to an external server*
 
@@ -34,8 +33,8 @@ I'm Arjun Pramanik, a computer science undergrad who approaches technology with 
 
 ### 🛠️ Skills & Tools
 
-- **Languages:** C++, Bash, Python, HTML & CSS
-- **Tools:** Docker + Compose, Git, Linux, VS Code
+- **Languages:** C++, Bash, Python, HTML & CSS, JavaScript
+- **Tools:** Docker + Compose, Git, Linux, Jupyter
 - **Other:** Markdown, Technical Documentation, Networking
 
 ---
@@ -45,8 +44,3 @@ I'm Arjun Pramanik, a computer science undergrad who approaches technology with 
 -  🔭 Currently working on the network analyzer.
 -  🔍 Looking for help with an Obsidian to GitHub Wiki Sync tool!
 -  📫 You can reach me at capyBearista@gmail.com.
-
----
-
-<!-- Animated Divider -->
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="colorful footer banner"/></p>
