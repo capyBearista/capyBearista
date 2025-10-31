@@ -23,11 +23,14 @@ I'm Arjun Pramanik, a computer science undergrad who approaches technology with 
 
 ### 🌟 Featured Projects
 
-- [**phish-net**](https://github.com/capyBearista/phish-net):  
-  *A comprehensive, local-first phishing detection tool built with Python and Streamlit, leveraging the Ollama framework to run a local LLM for all analysis, ensuring no user data is sent to an external server*
+- [**alien-detector**](https://github.com/capyBearista/alien-detector):  
+  *A fun Halloween project built with Python, OpenCV, and MediaPipe to detect and classify hand landmarks from a webcam in real-time. This project was a great dive into computer vision, processing live video feeds, and triggering events (like playing sounds with Pygame) based on model classification.*
 
 - [**home-server**](https://github.com/capyBearista/home-server):  
   *A complete guide to building and configuring a home server from scratch, hosting a suite of actually useful services. This project taught me tons about system administration and networking!*
+
+- [**phish-net**](https://github.com/capyBearista/phish-net):  
+  *A comprehensive, local-first phishing detection tool built with Python and Streamlit, leveraging the Ollama framework to run a local LLM for all analysis, ensuring no user data is sent to an external server*
 
 ---
 
