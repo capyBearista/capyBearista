@@ -6,7 +6,7 @@
   <img src="https://img.itch.zone/aW1hZ2UvMjk4NTc3MC8xNzg1ODg5OS5naWY=/original/nA3Up1.gif" width="50">
 </p>
 
-I'm Arjun Pramanik, a computer science undergrad who approaches technology with a strategist's mindset. My passion lies at the intersection of hands-on building and high-level problem-solving, influenced by my training in both AI/ML and strategy consulting. I'm fascinated by the foundational technologies—from networks to servers—because understanding the full picture is key to creating elegant, efficient, and secure solutions. Away from the keyboard, I enjoy photography and capturing the world from a different perspective :)
+I'm Arjun Pramanik, a computer science undergrad who loves to build (and occasionally break) things with a strategist's mindset. My experience in everything from AI/ML development to strategy consulting has convinced me that technology's real promise is to solve human problems, not create new ones. I'm passionate about building tech that's private-by-design and puts people first, always asking the big 'why' and 'who benefits' before diving into the 'how.' Away from the keyboard, I enjoy photography and capturing the world from a different perspective :)
 
 <p align="center">
   <em>Computer Science Student | Aspiring AI/ML Specialist</em>
