@@ -23,8 +23,8 @@ I'm Arjun Pramanik, a computer science undergrad who approaches technology with 
 
 ### Featured Projects
 
-- [**alien-detector**](https://github.com/capyBearista/alien-detector):  
-  *An applied computer vision project built in Python using OpenCV and MediaPipe to perform real-time hand classification. It analyzes webcam landmark data to distinguish 'Alien' hands from 'Human' hands based on finger proportions—a fun exploration of practical ML model integration.*
+- [**alien-detector**](https://github.com/capyBearista/alien-detector):
+  *An applied computer vision project built in Python using OpenCV and MediaPipe to perform real-time hand classification. It analyzes webcam landmark data to distinguish 'Alien' hands from 'Human' hands based on finger proportions—a fun exploration of practical ML model integration.*
 
 - [**home-server**](https://github.com/capyBearista/home-server):  
   *A complete guide to building and configuring a home server from scratch, hosting a suite of actually useful services. This project taught me tons about system administration and networking!*
