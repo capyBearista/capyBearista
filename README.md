@@ -15,7 +15,6 @@ I'm Arjun Pramanik, a computer science undergrad who loves to build (and occasio
 <p align="center">
   <!-- Website badges -->
   <a href="https://linkedin.com/in/arjun-pramanik" title="LinkedIn"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn" height="28"/></a>
-  <a href="https://capybearista.github.io/" title="Website"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" alt="Website" height="28"/></a>
   <a href="mailto:capybearista@gmail.com" title="E-Mail"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="E-Mail" height="28"/></a>
 </p>
 
