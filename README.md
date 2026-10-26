@@ -4,7 +4,7 @@
   <img src="https://img.itch.zone/aW1hZ2UvMjk4NTc3MC8xNzg1ODg5OS5naWY=/original/nA3Up1.gif" alt="A little animated capybara" width="60" />
 </p>
 
-I'm Arjun Pramanik, a computer science undergrad at **George Washington University** who loves to build (and occasionally break) things with a strategist's mindset. My experience in everything from AI/ML projects to strategy consulting has convinced me that technology's real promise is to **solve human problems, not create new ones**. I care about privacy and the people on the other side of the screen, and I tend to ask *why?* and *who benefits?* before getting too caught up in *how?*
+I'm Arjun Pramanik, a computer science undergrad, who loves to build (and occasionally break) things, with a strategist's mindset. My experience in everything from AI/ML projects to strategy consulting has convinced me that technology's real promise is to **solve human problems, not create new ones**. I care about privacy and the people on the other side of the screen, and I tend to ask *why?* and *who benefits?* before getting too caught up in *how?*
 
 Lately, I've been especially curious about how machine learning models actually **learn**—not just how to plug them into an app. I'm hoping to get deeper into the research and training side of ML. In the meantime, I keep getting sidetracked by coding tools, my homelab, and ideas that probably didn't need to become entire projects :)
 
