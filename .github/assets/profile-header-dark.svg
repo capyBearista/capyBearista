@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="profile-title profile-desc">
+  <title id="profile-title">Hey, I'm Arjun</title>
+  <desc id="profile-desc">Arjun Pramanik, computer science at GWU. Interested in machine learning, open-source developer tools, and privacy-first software.</desc>
+  <defs>
+    <style>
+      text { font-family: "JetBrains Mono", "DejaVu Sans Mono", monospace; }
+      .eyebrow { font-size: 13px; font-weight: 600; letter-spacing: 2px; }
+      .headline { font-size: 49px; font-weight: 700; letter-spacing: -1.5px; }
+      .subhead { font-size: 21px; font-weight: 500; }
+      .detail { font-size: 15px; }
+      .index { font-size: 18px; font-weight: 700; }
+      .card-title { font-size: 16px; font-weight: 700; letter-spacing: .4px; }
+      .card-desc { font-size: 13px; }
+      .footer { font-size: 13px; }
+    </style>
+  </defs>
+  <rect width="1200" height="300" fill="#0a0a0a"/>
+  <rect x=".5" y=".5" width="1199" height="299" fill="none" stroke="#484848"/>
+  <rect x="55" y="36" width="33" height="3" fill="#fab283"/>
+  <text x="101" y="42" class="eyebrow" fill="#fab283">CAPYBEARISTA / GITHUB</text>
+  <text x="54" y="136" class="headline" fill="#eeeeee">hey, i'm arjun<tspan fill="#fab283">.</tspan></text>
+  <text x="56" y="181" class="subhead" fill="#b5b5b5">computer science @ GWU</text>
+  <text x="56" y="217" class="detail" fill="#b5b5b5">building tools; curious about intelligence.</text>
+  <rect x="56" y="257" width="42" height="2" fill="#fab283"/>
+  <text x="111" y="262" class="footer" fill="#808080">build / break / learn / repeat</text>
+  <rect x="747" y="42" width="397" height="64" fill="#141414" stroke="#484848"/>
+  <rect x="747" y="42" width="4" height="64" fill="#fab283"/>
+  <text x="770" y="71" class="index" fill="#fab283">01</text>
+  <text x="814" y="69" class="card-title" fill="#eeeeee">MACHINE LEARNING</text>
+  <text x="814" y="90" class="card-desc" fill="#b5b5b5">models, training & research</text>
+  <rect x="747" y="114" width="397" height="64" fill="#141414" stroke="#484848"/>
+  <rect x="747" y="114" width="4" height="64" fill="#5c9cf5"/>
+  <text x="770" y="143" class="index" fill="#5c9cf5">02</text>
+  <text x="814" y="141" class="card-title" fill="#eeeeee">OPEN SOURCE</text>
+  <text x="814" y="162" class="card-desc" fill="#b5b5b5">developer tools & workflows</text>
+  <rect x="747" y="186" width="397" height="64" fill="#141414" stroke="#484848"/>
+  <rect x="747" y="186" width="4" height="64" fill="#56b6c2"/>
+  <text x="770" y="215" class="index" fill="#56b6c2">03</text>
+  <text x="814" y="213" class="card-title" fill="#eeeeee">PRIVACY BY DESIGN</text>
+  <text x="814" y="234" class="card-desc" fill="#b5b5b5">local-first projects</text>
+</svg>
