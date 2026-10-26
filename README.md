@@ -10,9 +10,7 @@ Lately, I've been especially curious about how machine learning models actually 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/profile-header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset=".github/assets/profile-header-light.svg" />
-    <img src=".github/assets/profile-header-dark.svg" alt="A doodled capybara with a laptop beside the words: capyBearista — I build things, break things, then try to understand why." width="100%" />
+    <img src=".github/assets/profile-header-dark.svg" alt="capyBearista: a brief introduction" width="100%" />
   </picture>
 </p>
 
