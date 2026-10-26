@@ -26,7 +26,7 @@ Lately, I've been especially curious about how machine learning models actually 
 - **[opencode-plugins](https://github.com/capyBearista/opencode-plugins)** — I kept finding little things I wanted to change about OpenCode, so I started writing plugins. It's grown into a collection covering agent configs, code reviews, navigation, and other tiny annoyances.
 - **[yt-content-digest](https://github.com/capyBearista/yt-content-digest)** — For the pile of YouTube videos I swear I'll watch *eventually*. Pulls transcripts and comments together and uses local or hosted LLMs to help me make sense of them.
 - **[phish-net](https://github.com/capyBearista/phish-net)** — A phishing-email analyzer that runs with Ollama on your own machine. Suspicious email is bad enough without having to send it off to another server.
-- **[alien-detector](https://github.com/capyBearista/alien-detector)** — A Halloween computer-vision project with hand tracking and a very scientific™ definition of an alien hand. Made with Thanh Van Nguyen at the Quincy College Computer Club. 👽
+- **[alien-detector](https://github.com/capyBearista/alien-detector)** — A Halloween computer-vision project with hand tracking and a very scientific™ definition of an alien hand. Made at the Quincy College Computer Club. 👽
 
 I also tinker with [self-hosting](https://github.com/capyBearista/home-server) and once got annoyed enough by a bright website to make [an entire dark-mode userscript](https://github.com/capyBearista/artificial-analysis-dark-mode).
 
