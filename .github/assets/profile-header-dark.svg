@@ -1,41 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="profile-title profile-desc">
-  <title id="profile-title">Hey, I'm Arjun</title>
-  <desc id="profile-desc">Arjun Pramanik, computer science at GWU. Interested in machine learning, open-source developer tools, and privacy-first software.</desc>
-  <defs>
-    <style>
-      text { font-family: "JetBrains Mono", "DejaVu Sans Mono", monospace; }
-      .eyebrow { font-size: 13px; font-weight: 600; letter-spacing: 2px; }
-      .headline { font-size: 49px; font-weight: 700; letter-spacing: -1.5px; }
-      .subhead { font-size: 21px; font-weight: 500; }
-      .detail { font-size: 15px; }
-      .index { font-size: 18px; font-weight: 700; }
-      .card-title { font-size: 16px; font-weight: 700; letter-spacing: .4px; }
-      .card-desc { font-size: 13px; }
-      .footer { font-size: 13px; }
-    </style>
-  </defs>
-  <rect width="1200" height="300" fill="#0a0a0a"/>
-  <rect x=".5" y=".5" width="1199" height="299" fill="none" stroke="#484848"/>
-  <rect x="55" y="36" width="33" height="3" fill="#fab283"/>
-  <text x="101" y="42" class="eyebrow" fill="#fab283">CAPYBEARISTA / GITHUB</text>
-  <text x="54" y="136" class="headline" fill="#eeeeee">hey, i'm arjun<tspan fill="#fab283">.</tspan></text>
-  <text x="56" y="181" class="subhead" fill="#b5b5b5">computer science @ GWU</text>
-  <text x="56" y="217" class="detail" fill="#b5b5b5">building tools; curious about intelligence.</text>
-  <rect x="56" y="257" width="42" height="2" fill="#fab283"/>
-  <text x="111" y="262" class="footer" fill="#808080">build / break / learn / repeat</text>
-  <rect x="747" y="42" width="397" height="64" fill="#141414" stroke="#484848"/>
-  <rect x="747" y="42" width="4" height="64" fill="#fab283"/>
-  <text x="770" y="71" class="index" fill="#fab283">01</text>
-  <text x="814" y="69" class="card-title" fill="#eeeeee">MACHINE LEARNING</text>
-  <text x="814" y="90" class="card-desc" fill="#b5b5b5">models, training &amp; research</text>
-  <rect x="747" y="114" width="397" height="64" fill="#141414" stroke="#484848"/>
-  <rect x="747" y="114" width="4" height="64" fill="#5c9cf5"/>
-  <text x="770" y="143" class="index" fill="#5c9cf5">02</text>
-  <text x="814" y="141" class="card-title" fill="#eeeeee">OPEN SOURCE</text>
-  <text x="814" y="162" class="card-desc" fill="#b5b5b5">developer tools &amp; workflows</text>
-  <rect x="747" y="186" width="397" height="64" fill="#141414" stroke="#484848"/>
-  <rect x="747" y="186" width="4" height="64" fill="#56b6c2"/>
-  <text x="770" y="215" class="index" fill="#56b6c2">03</text>
-  <text x="814" y="213" class="card-title" fill="#eeeeee">PRIVACY BY DESIGN</text>
-  <text x="814" y="234" class="card-desc" fill="#b5b5b5">local-first projects</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="328" viewBox="0 0 1200 328" role="img" aria-labelledby="title desc">
+<title id="title">capyBearista — my corner of GitHub</title>
+<desc id="desc">A warm, hand-drawn illustration of a capybara behind a laptop with a little coffee mug. The lettering reads: I build things, break things, then try to understand why.</desc>
+<defs>
+  <pattern id="dots-dark" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#404147" opacity=".55"/></pattern>
+</defs>
+<rect width="1200" height="328" fill="#0d0e11"/>
+<rect width="1200" height="328" fill="url(#dots-dark)" opacity=".65"/>
+<rect x="12" y="12" width="1176" height="304" rx="14" fill="none" stroke="#404147" stroke-width="1.8"/>
+<path d="M34 46 H132" stroke="#fab283" stroke-width="5" stroke-linecap="round"/>
+<text x="44" y="84" fill="#85868b" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="18" letter-spacing="1">A LITTLE CORNER OF THE INTERNET</text>
+<text x="38" y="169" fill="#f5f0e8" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="64" letter-spacing="-2">capyBearista</text>
+<path d="M42 187 C151 194 255 182 390 190 C491 197 573 184 645 189" fill="none" stroke="#fab283" stroke-width="6" stroke-linecap="round"/>
+<text x="43" y="230" fill="#bfc0bf" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="19">I build things, break things,</text>
+<text x="43" y="259" fill="#bfc0bf" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="19">then try to understand why.</text>
+<text x="43" y="297" fill="#85868b" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="15">CS @ GWU  /  too many side projects</text>
+<!-- Wash behind the mascot. The shapes deliberately overlap like a casual illustration. -->
+<path d="M867 52 C973 6 1132 64 1151 165 C1172 275 1071 306 951 290 C855 277 781 231 799 146 C804 100 822 78 867 52 Z" fill="#17181d" stroke="#404147" stroke-width="1.8"/>
+<path d="M811 110 C823 91 833 78 852 70" stroke="#8ed7c6" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path d="M1108 79 l10 -15 m5 20 l17 -6 m-13 17 l14 7" stroke="#fab283" stroke-width="4" stroke-linecap="round" fill="none"/>
+<path d="M811 228 q-9 21 0 38" stroke="#8cb8f0" stroke-width="3" fill="none" stroke-linecap="round"/>
+<!-- capybara body, ears, head and face -->
+<ellipse cx="1000" cy="199" rx="114" ry="80" fill="#9e684c" stroke="#694533" stroke-width="3"/>
+<path d="M913 116 Q897 78 912 67 Q930 59 937 85 L940 111 Z" fill="#8d5b43" stroke="#694533" stroke-width="3"/>
+<path d="M1015 115 Q1028 73 1045 75 Q1062 81 1041 123 Z" fill="#8d5b43" stroke="#694533" stroke-width="3"/>
+<path d="M918 87 Q928 84 928 103 L916 102 Z" fill="#c99677"/>
+<path d="M1037 88 Q1041 94 1038 105 L1029 103 Z" fill="#c99677"/>
+<path d="M873 155 C859 119 878 87 919 82 C969 77 1049 87 1055 147 C1060 202 1000 219 939 214 C901 213 879 196 873 155 Z" fill="#c48b61" stroke="#694533" stroke-width="3.4"/>
+<path d="M870 152 C843 143 820 152 820 173 C820 194 857 207 894 193 C910 185 907 165 889 157 Z" fill="#d6a078" stroke="#694533" stroke-width="3"/>
+<ellipse cx="840" cy="170" rx="7" ry="5.5" fill="#4c352a"/>
+<path d="M848 191 Q862 201 876 189" stroke="#6b4535" stroke-width="3" fill="none" stroke-linecap="round"/>
+<ellipse cx="936" cy="144" rx="7" ry="9" fill="#302723"/>
+<circle cx="938" cy="141" r="2.5" fill="#fff0dc"/>
+<path d="M955 188 Q975 193 997 186" stroke="#a87458" stroke-width="3" fill="none" stroke-linecap="round"/>
+<!-- little paws -->
+<path d="M923 244 Q909 264 923 268 L945 268 Q960 258 949 243 Z" fill="#b57e56" stroke="#694533" stroke-width="2"/>
+<path d="M1042 242 Q1038 266 1053 267 L1078 267 Q1092 252 1076 241 Z" fill="#b57e56" stroke="#694533" stroke-width="2"/>
+<!-- laptop: simple open lid over paws -->
+<path d="M913 202 H1104 Q1113 202 1112 212 L1099 282 H923 Z" fill="#161719" stroke="#404147" stroke-width="3"/>
+<path d="M924 215 H1097 L1087 270 H930 Z" fill="#17181d"/>
+<circle cx="1009" cy="242" r="10" fill="none" stroke="#8ed7c6" stroke-width="3"/>
+<path d="M1003 242 h12 M1009 236 v12" stroke="#8ed7c6" stroke-width="2" stroke-linecap="round"/>
+<path d="M907 282 H1117 L1134 294 Q1137 297 1131 299 H896 Q888 296 894 292 Z" fill="#404147" stroke="#bfc0bf" stroke-width="2"/>
+<path d="M991 288 h46" stroke="#85868b" stroke-width="2" stroke-linecap="round"/>
+<!-- coffee, tiny doodles and caption -->
+<path d="M1140 213 h26 v31 q0 12 -12 12 h-3 q-11 -2 -11 -12 Z" fill="#8ed7c6" stroke="#404147" stroke-width="2"/>
+<path d="M1166 223 q17 -3 13 12 q-3 10 -13 6" fill="none" stroke="#8ed7c6" stroke-width="5"/>
+<path d="M1148 203 q-9 -8 -1 -17 m13 17 q-7 -9 0 -17" fill="none" stroke="#bfc0bf" stroke-width="2" stroke-linecap="round"/>
+<path d="M767 71 l6 -8 l6 8 l-6 8 Z" fill="#fab283"/>
+<circle cx="770" cy="281" r="4" fill="#8ed7c6"/>
 </svg>
