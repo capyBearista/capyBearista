@@ -27,12 +27,12 @@
   <rect x="747" y="42" width="4" height="64" fill="#af5831"/>
   <text x="770" y="71" class="index" fill="#af5831">01</text>
   <text x="814" y="69" class="card-title" fill="#171717">MACHINE LEARNING</text>
-  <text x="814" y="90" class="card-desc" fill="#525252">models, training & research</text>
+  <text x="814" y="90" class="card-desc" fill="#525252">models, training &amp; research</text>
   <rect x="747" y="114" width="397" height="64" fill="#efeee9" stroke="#d3d1cb"/>
   <rect x="747" y="114" width="4" height="64" fill="#356ca8"/>
   <text x="770" y="143" class="index" fill="#356ca8">02</text>
   <text x="814" y="141" class="card-title" fill="#171717">OPEN SOURCE</text>
-  <text x="814" y="162" class="card-desc" fill="#525252">developer tools & workflows</text>
+  <text x="814" y="162" class="card-desc" fill="#525252">developer tools &amp; workflows</text>
   <rect x="747" y="186" width="397" height="64" fill="#efeee9" stroke="#d3d1cb"/>
   <rect x="747" y="186" width="4" height="64" fill="#267681"/>
   <text x="770" y="215" class="index" fill="#267681">03</text>
