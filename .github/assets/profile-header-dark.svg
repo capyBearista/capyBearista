@@ -1,0 +1,56 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="328" viewBox="0 0 1200 328" role="img" aria-labelledby="title desc">
+  <title id="title">capyBearista — a little corner of the internet</title>
+  <desc id="desc">A charcoal, terminal-inspired profile banner with the line “I build things, break things, then try to understand why” and a small panel of current interests.</desc>
+
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#484848" opacity="0.38"/>
+    </pattern>
+    <style>
+      text { font-family: "JetBrains Mono", monospace; }
+      .eyebrow { font-size: 14px; letter-spacing: 1.6px; }
+      .wordmark { font-size: 60px; font-weight: 750; letter-spacing: -2px; }
+      .body { font-size: 19px; }
+      .small { font-size: 14px; }
+      .index { font-size: 15px; font-weight: 700; }
+      .item { font-size: 17px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="328" fill="#0a0a0a"/>
+  <rect width="1200" height="328" fill="url(#dots)"/>
+  <rect x="18.5" y="18.5" width="1163" height="291" fill="none" stroke="#484848"/>
+
+  <!-- Greeting. -->
+  <rect x="44" y="43" width="94" height="4" fill="#fab283"/>
+  <text x="44" y="85" class="eyebrow" fill="#808080">WELCOME TO MY LITTLE CORNER OF GITHUB!</text>
+  <text x="41" y="169" class="wordmark" fill="#eeeeee">capyBearista</text>
+  <path d="M45 186 H526" stroke="#fab283" stroke-width="5" stroke-linecap="square"/>
+  <text x="44" y="227" class="body" fill="#b5b5b5">I build things, break things,</text>
+  <text x="44" y="257" class="body" fill="#b5b5b5">and occasionally rebuild things.</text>
+  <text x="44" y="294" class="small" fill="#808080">CS @ GWU  /  too many side projects</text>
+
+  <!-- A quiet OpenCode-style panel: typography, not illustrations. -->
+  <rect x="787.5" y="59.5" width="362" height="224" fill="#141414" stroke="#484848"/>
+  <rect x="787" y="59" width="55" height="3" fill="#fab283"/>
+  <text x="810" y="93" class="eyebrow" fill="#eeeeee">OPEN TABS</text>
+  <text x="1116" y="93" class="small" text-anchor="end" fill="#fab283">03</text>
+  <path d="M810 109 H1127" fill="none" stroke="#484848"/>
+
+  <rect x="810" y="127" width="4" height="21" fill="#fab283"/>
+  <text x="828" y="144" class="index" fill="#fab283">01</text>
+  <text x="875" y="144" class="item" fill="#eeeeee">why models learn</text>
+  <path d="M810 161 H1127" fill="none" stroke="#333333"/>
+
+  <text x="828" y="187" class="index" fill="#808080">02</text>
+  <text x="875" y="187" class="item" fill="#b5b5b5">making tools nicer</text>
+  <path d="M810 205 H1127" fill="none" stroke="#333333"/>
+
+  <text x="828" y="230" class="index" fill="#808080">03</text>
+  <text x="875" y="230" class="item" fill="#b5b5b5">homelab detours</text>
+  <path d="M810 247 H1127" fill="none" stroke="#333333"/>
+
+  <rect x="810" y="264" width="7" height="7" fill="#7fd88f"/>
+  <text x="829" y="271" class="small" fill="#808080">all perpetually in progress</text>
+</svg>

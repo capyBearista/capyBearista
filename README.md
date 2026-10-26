@@ -1,42 +1,40 @@
 <h1>👋🏽 Hey, Arjun here!</h1>
 
 <p>
-  <img src="https://img.itch.zone/aW1hZ2UvMjk4NTc3MC8xNzg1ODg5OS5naWY=/original/nA3Up1.gif" width="50">
+  <img src="https://img.itch.zone/aW1hZ2UvMjk4NTc3MC8xNzg1ODg5OS5naWY=/original/nA3Up1.gif" alt="A little animated capybara" width="60" />
 </p>
 
-I'm Arjun Pramanik, a computer science undergrad who loves to build (and occasionally break) things with a strategist's mindset. My experience in everything from AI/ML development to strategy consulting has convinced me that technology's real promise is to solve human problems, not create new ones. I'm passionate about building tech that's private-by-design and puts people first, always asking the big 'why' and 'who benefits' before diving into the 'how.' Away from the keyboard, I enjoy photography and capturing the world from a different perspective :)
+I'm Arjun Pramanik, a computer science undergrad, who loves to build (and occasionally break) things, with a strategist's mindset. My experience in everything from AI/ML projects to strategy consulting has convinced me that technology's real promise is to **solve human problems, not create new ones**. I care about privacy and the people on the other side of the screen, and I tend to ask *why?* and *who benefits?* before getting too caught up in *how?*
+
+Lately, I've been especially curious about how machine learning models actually **learn**—not just how to plug them into an app. I'm hoping to get deeper into the research and training side of ML. In the meantime, I keep getting sidetracked by coding tools, my homelab, and ideas that probably didn't need to become entire projects :)
 
 <p align="center">
-  <em>Computer Science Student | Aspiring AI/ML Specialist</em>
+  <picture>
+    <img src=".github/assets/profile-header-dark.svg" alt="capyBearista: a brief introduction" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <!-- Website badges -->
-  <a href="https://linkedin.com/in/arjun-pramanik" title="LinkedIn"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn" height="28"/></a>
-  <a href="mailto:capybearista@gmail.com" title="E-Mail"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="E-Mail" height="28"/></a>
+  <a href="https://linkedin.com/in/arjun-pramanik">LinkedIn</a> ·
+  <a href="mailto:capybearista@gmail.com">Email</a>
 </p>
 
 ---
 
-### Featured Projects
+### Things I've been building
 
-- [**alien-detector**](https://github.com/capyBearista/alien-detector):   
-  *An applied computer vision project built in Python using OpenCV and MediaPipe to perform real-time hand classification. It analyzes webcam landmark data to distinguish 'Alien' hands from 'Human' hands based on finger proportions—a fun exploration of practical ML model integration.*
+- **[opencode-plugins](https://github.com/capyBearista/opencode-plugins)** — I kept finding little things I wanted to change about OpenCode, so I started writing plugins. It's grown into a collection covering agent configs, code reviews, navigation, and other tiny annoyances.
+- **[yt-content-digest](https://github.com/capyBearista/yt-content-digest)** — For the pile of YouTube videos I swear I'll watch *eventually*. Pulls transcripts and comments together and uses local or hosted LLMs to help me make sense of them.
+- **[phish-net](https://github.com/capyBearista/phish-net)** — A phishing-email analyzer that runs with Ollama on your own machine. Suspicious email is bad enough without having to send it off to another server.
+- **[alien-detector](https://github.com/capyBearista/alien-detector)** — A Halloween computer-vision project with hand tracking and a very scientific™ definition of an alien hand. Made with Thanh Van Nguyen at the Quincy College Computer Club. 👽
 
-- [**home-server**](https://github.com/capyBearista/home-server):  
-  *A complete guide to building and configuring a home server from scratch, hosting a suite of actually useful services. This project taught me tons about system administration and networking!*
-
----
+I also tinker with [self-hosting](https://github.com/capyBearista/home-server) and once got annoyed enough by a bright website to make [an entire dark-mode userscript](https://github.com/capyBearista/artificial-analysis-dark-mode).
 
 ### Skills & Tools
 
-- **Languages:** C++, Bash, Python, HTML & CSS, JavaScript
-- **Tools:** Docker + Compose, Git, Linux, Jupyter
+- **Languages:** Python, TypeScript / JavaScript, C++, Bash, HTML & CSS
+- **Usually nearby:** Linux, Git, Docker + Compose, Jupyter, Ollama, OpenCV
 
----
+### Away from the keyboard
 
-### More About Me
-
--  🔭 Currently working on the [secret project here :)].
--  🔍 Looking for help with an Obsidian to GitHub Wiki Sync tool!
--  📫 You can reach me at capyBearista@gmail.com.
+Photography! I like wandering around with a camera and catching the world from a different perspective. 📷
